@@ -1,2 +1,4 @@
-When a repository is initialized, a .git file is added to the repository. The .git file contains information about the history of the repository.
-The repository has to be initialized for the first commit to be creted.
+1.When a repository is initialized, a .git file is added to the repository. The .git file contains information about the history of the repository.
+The repository has to be initialized for the first commit to be created.
+
+2.The staging area is a transitional space where one can work on the files to be modified in the next commit.
