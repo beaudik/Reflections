@@ -1,0 +1,11 @@
+1. Seeing the 2 versions of the file next to each other makes the error obvious.
+2. Not every revision of a file will makes it better, having a copy of the previous 
+   one makes it easy to go back to a working version of the code.
+3. When you chose the time to create a commit, you only do so after you have a made a logical change
+   instead of a random commit. But if you forget to save your change you lost it.
+4.Git allows multiple files saving in one commit, unlike other vcs, because  
+   files are often connected to each others in CS.
+5. git log diplays the list of all the commits for a file. git diff shows what's 
+   added and what's been deleted. 
+6. Git allows one to work on a copy of the master, it enables to experiment     with the code without changingthe master.
+7.Git is going to be a very important tool for learning front end web developement.  

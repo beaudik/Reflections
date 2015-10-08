@@ -1,0 +1,2 @@
+When a repository is initialized, a .git file is added to the repository. The .git file contains information about the history of the repository.
+The repository has to be initialized for the first commit to be creted.
