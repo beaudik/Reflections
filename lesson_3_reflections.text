@@ -8,3 +8,6 @@ By pulling changes manually we can be sure that each commit represent a logical 
 fork is a copy from GitHub to a local computer.
 clones are the same thing but can on the same machine or GitHub.
 branches are 2 versions of the same file.
+
+4.How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+For a simple work emails would be fine but Git/GitHub is much more convenient.
